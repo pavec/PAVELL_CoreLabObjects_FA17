@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gamelab_environmenthw.data.unityweb",
+"asmCodeUrl": "gamelab_environmenthw.asm.code.unityweb",
+"asmMemoryUrl": "gamelab_environmenthw.asm.memory.unityweb",
+"asmFrameworkUrl": "gamelab_environmenthw.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
