@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/gamelab_rgmachine.unity
+  isLoaded: 1
+  isActive: 1

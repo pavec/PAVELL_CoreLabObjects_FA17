@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gamelab_rgmachine_hw2.data.unityweb",
+"asmCodeUrl": "gamelab_rgmachine_hw2.asm.code.unityweb",
+"asmMemoryUrl": "gamelab_rgmachine_hw2.asm.memory.unityweb",
+"asmFrameworkUrl": "gamelab_rgmachine_hw2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
